@@ -12,5 +12,5 @@ public abstract class Animal {
 
     public abstract void run(int rangeRun);
 
-    public abstract void swim(int rangeSweem);
+    public abstract void swim(int rangeSwim);
 }
